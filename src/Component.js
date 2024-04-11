@@ -378,7 +378,7 @@ export default function Component() {
                 value={formData.subject}
                 onChange={handleSelectChange3}
               >
-                <MenuItem value="ApplicationForMedicalLeaveToHOD">
+                <MenuItem value="medicalLeave">
                   Application for medical leave to HOD
                 </MenuItem>
                 <MenuItem value="⁠ApplicationForATMCard">
